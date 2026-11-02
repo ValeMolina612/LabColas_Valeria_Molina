@@ -15,4 +15,4 @@ Práctica de Estructuras de Datos: colas en Java.
 
 Compilar: `javac -d out src/colas/\*.java`  |  Ejecutar: `java -cp out colas.Main`
 
->>>>>>> 94eb926 (Ejercicios de colas)
+
