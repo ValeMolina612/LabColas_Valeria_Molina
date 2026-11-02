@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# LabColas_Valeria_Molina
-=======
+
 # LabColas
 
 Molina Rosas Maria Valeria 
